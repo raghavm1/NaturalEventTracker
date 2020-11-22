@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Natural Event Tracker 🔥⛈️
+
+Look at the world daily via Google Maps and look for natural events as they occur.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
