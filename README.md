@@ -1,6 +1,8 @@
-# Natural Event Tracker 🔥⛈️
+# Natural Event Tracker 🔥
 
 Look at the world daily via Google Maps and look for wildfires as they occur.
+
+[Coming Soon!] -> Tracking severe storms
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
